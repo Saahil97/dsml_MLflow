@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/dsml_MLflow/mlruns/523387048654800761/987dfb246f26435fb6cf8633ca93c8b7/artifacts
+end_time: 1676636718263
+entry_point_name: ''
+experiment_id: '523387048654800761'
+lifecycle_stage: active
+run_id: 987dfb246f26435fb6cf8633ca93c8b7
+run_name: indecisive-cod-400
+run_uuid: 987dfb246f26435fb6cf8633ca93c8b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676636718190
+status: 4
+tags: []
+user_id: '91789'

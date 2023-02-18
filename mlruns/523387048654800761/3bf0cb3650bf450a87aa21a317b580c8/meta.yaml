@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/dsml_MLflow/mlruns/523387048654800761/3bf0cb3650bf450a87aa21a317b580c8/artifacts
+end_time: 1676630518818
+entry_point_name: ''
+experiment_id: '523387048654800761'
+lifecycle_stage: active
+run_id: 3bf0cb3650bf450a87aa21a317b580c8
+run_name: first_run
+run_uuid: 3bf0cb3650bf450a87aa21a317b580c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676630511722
+status: 3
+tags: []
+user_id: '91789'

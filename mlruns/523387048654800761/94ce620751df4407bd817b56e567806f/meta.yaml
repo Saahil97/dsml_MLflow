@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/dsml_MLflow/mlruns/523387048654800761/94ce620751df4407bd817b56e567806f/artifacts
+end_time: 1676630463000
+entry_point_name: ''
+experiment_id: '523387048654800761'
+lifecycle_stage: active
+run_id: 94ce620751df4407bd817b56e567806f
+run_name: respected-fox-769
+run_uuid: 94ce620751df4407bd817b56e567806f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676630462917
+status: 4
+tags: []
+user_id: '91789'

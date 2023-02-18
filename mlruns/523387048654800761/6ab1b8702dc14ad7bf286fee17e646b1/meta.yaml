@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/dsml_MLflow/mlruns/523387048654800761/6ab1b8702dc14ad7bf286fee17e646b1/artifacts
+end_time: 1676636222532
+entry_point_name: ''
+experiment_id: '523387048654800761'
+lifecycle_stage: active
+run_id: 6ab1b8702dc14ad7bf286fee17e646b1
+run_name: hyperparameter_tuning_5
+run_uuid: 6ab1b8702dc14ad7bf286fee17e646b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676636219899
+status: 3
+tags: []
+user_id: '91789'
